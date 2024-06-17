@@ -71,6 +71,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any questions, please contact:
 - **Tino Penchev**
 - **Email**: tinopenchev@gmail.com
-- **Phone**: (415) 214-4401
 - **LinkedIn**: [linkedin.com/in/tino-penchev-quant](https://linkedin.com/in/tino-penchev-quant)
 - **GitHub**: [github.com/tinopenchev](https://github.com/tinopenchev)
